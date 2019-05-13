@@ -1,10 +1,17 @@
 === WooCommerce Admin Top Orders Countries ===
-Contributors:
-Tags: comments, inbox, WooCommerce, admin
+
+Plugin Name: Payment Block - Stripe
+Author: ajayghaghretiya1
+Author URI: https://profiles.wordpress.org/ajayghaghretiya1/
+Contributors: ajayghaghretiya1, ajayghaghretiya
+Tags: top-selling-countries, top-orders-countries, top-orders, top-revenue-countries, top-woocommerce-orders, top-woocommerce-countries, orders-count-by-country, order-sort-by-countries.
+Stable tag: 1.0.0
 Requires at least: 5.0.0
 Tested up to: 5.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Requires PHP: 5.6
+Copyright:
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 WooCommerce Admin Top Orders Countries will add the leaderboard in the WooCommerce Admin Dashboard pages leaderboards section. It is provide the details of top countries that your are selling with the numbers of sells along with the total revenue from that country.
 
@@ -40,3 +47,13 @@ It will require WordPress 5.0 or later version. Also, It will require WooCommerc
 Ordered list:
 
 1. Create the leaderboard for the listing the top orders countries with the revenue.
+
+
+== Screenshots ==
+1. Screenshot-1.png
+2. Screenshot-2.png
+
+== Changelog ==
+
+= 1.0.0
+* Firts release that allows you to listing the top countries based on the most item sell.
